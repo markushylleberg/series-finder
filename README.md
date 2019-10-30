@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React project that is connected with an API with tv-series. You can search all your favorite tv-series!
+
 
 ## Available Scripts
 
